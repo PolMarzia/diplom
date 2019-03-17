@@ -1,0 +1,9 @@
+Источники:
+https://vocabulary.ru/termin/eksperimentalnoe-obuchenie.html - про ЭО
+https://ctfnews.ru/what-is-ctf/ - про CTF
+
+https://github.com/CTFd/CTFd - про CTFd
+https://github.com/CTFd/CTFd/wiki/Basic-Deployment - инструкция по CTFd
+https://ctfd.io - сам CTFd
+
+https://github.com/KevaTeam/ProjectAsya/commits/master?after=8a1e1eb1ac23d24552715acab7d88fa152487ad9+104 -проект ася
