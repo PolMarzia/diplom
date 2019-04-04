@@ -7,3 +7,8 @@ https://github.com/CTFd/CTFd/wiki/Basic-Deployment - инструкция по CTFd
 https://ctfd.io - сам CTFd
 
 https://github.com/KevaTeam/ProjectAsya/commits/master?after=8a1e1eb1ac23d24552715acab7d88fa152487ad9+104 -проект ася
+
+хакердом: 
+https://vk.com/hackerdom
+https://habr.com/ru/post/263473/
+https://github.com/HackerDom/qctf-school-2018
