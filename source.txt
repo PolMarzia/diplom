@@ -1,17 +1,21 @@
-€сточники:
-https://vocabulary.ru/termin/eksperimentalnoe-obuchenie.html - про ќЋ
+источники:
+https://vocabulary.ru/termin/eksperimentalnoe-obuchenie.html - про эо
 https://ctfnews.ru/what-is-ctf/ - про CTF
 
-https://github.com/CTFd/CTFd - про CTFd
-https://github.com/CTFd/CTFd/wiki/Basic-Deployment - инструкциЯ по CTFd
+CTFd:
+https://github.com/CTFd/CTFd
+https://github.com/CTFd/CTFd/wiki/Basic-Deployment
 https://ctfd.io - сам CTFd
 
-https://github.com/KevaTeam/ProjectAsya/commits/master?after=8a1e1eb1ac23d24552715acab7d88fa152487ad9+104 -проект асЯ
+Проект Ася:
+https://github.com/KevaTeam/ProjectAsya
+https://vk.com/kevactf
 
 хакердом: 
 https://vk.com/hackerdom
 https://habr.com/ru/post/263473/
 https://github.com/HackerDom/qctf-school-2018
+https://github.com/andgein/drapo
 
 фейсбук:
 https://ru.wikipedia.org/wiki/Facebook
