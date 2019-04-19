@@ -7,7 +7,7 @@ https://github.com/CTFd/CTFd
 https://github.com/CTFd/CTFd/wiki/Basic-Deployment
 https://ctfd.io - сам CTFd
 
-ѕроект јс€:
+проект ася:
 https://github.com/KevaTeam/ProjectAsya
 https://vk.com/kevactf
 
@@ -21,3 +21,6 @@ https://github.com/andgein/drapo
 https://ru.wikipedia.org/wiki/Facebook
 https://xakep.ru/2016/05/12/facebook-ctf/
 https://www.facebook.com/notes/facebook-ctf/facebook-ctf-is-now-open-source/525464774322241
+
+SchoolCTF:
+https://github.com/volalex/schoolctf
